@@ -1,8 +1,8 @@
-#summary One-sentence summary of this page.
+#summary Changes made to the code over  time.
 
 = Introduction =
 
-Changes made to the code over  time
+Changes made to the code over  time.
 
 
 = Details =
