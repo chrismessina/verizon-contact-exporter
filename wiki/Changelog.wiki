@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Changes Made to the product over  time
+Changes made to the code over  time
 
 
 = Details =
