@@ -1,0 +1,12 @@
+# Introduction #
+
+Changes made to the code over  time.
+
+
+# Details #
+
+2008/09/22
+
+1.1 - Added ability to download the vCard  file via data URI (unavailable in IE)
+
+1.0 - Initial release
